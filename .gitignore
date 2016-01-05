@@ -1,1 +1,17 @@
-/bin/
+# gradle
+bin
+build
+.gradle
+
+# eclipse
+.classpath
+.project
+.settings
+
+# intellij
+.idea
+*.iml
+.DS_Store
+
+#
+*~
